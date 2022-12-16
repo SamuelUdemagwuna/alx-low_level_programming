@@ -9,7 +9,7 @@ int main(void)
 {
 	int i;
 
-	i = 98 % 4;
+	i = 98 % 2;
 	positiv or negative(i);
 
 	return (0);
