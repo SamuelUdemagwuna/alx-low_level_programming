@@ -1,8 +1,8 @@
 #include "main.h"
 
 /**
- * positive_or_negative - Entry point
- * Description:print value of n status; zero,
+ * @positive_or_negative - Entry point
+ * Description:print value of @i status; zero,
  * positive or negative
  * Return: Always 0 (Success)
  */
