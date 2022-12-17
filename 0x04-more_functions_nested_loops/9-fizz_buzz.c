@@ -1,5 +1,5 @@
-#include <stdio.h>
 #include "main.h"
+#include <stdio.h>
 
 /**
  * main - prints the numbers from 1 to 100,
@@ -32,7 +32,7 @@ int main(void)
 		printf(" %d", i);
 	}
 	}
-	printf('\n');
+	printf("\n");
 
 	return (0);
 }
