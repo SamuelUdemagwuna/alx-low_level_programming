@@ -5,14 +5,14 @@
  *
  * @str: string parameter input
  *
- * Return: Noting
+ * Return: Nothing
  */
 
 void puts2(char *str)
 {
-	int i
+	int i;
 
-	for (i = 0; str[i] != '\0'; ++)
+	for (i = 0; str[i] != '\0'; ++i)
 	{
 		if (i % 2 == 0)
 			_putchar(str[i]);
