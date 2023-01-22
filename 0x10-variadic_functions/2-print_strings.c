@@ -1,6 +1,7 @@
 #include <stdarg.h>
 #include <stdio.h>
-/** * print_string - a function that prints string, followed by a new line
+/**
+ * print_string - a function that prints string, followed by a new line
  *
  * @seperator: pointer to a constant seperator
  * @n: start of input variables
