@@ -1,8 +1,6 @@
 #include <stdarg.h>
 #include <stdio.h>
-
-/**
- * print_string - a function that prints string, followed by a new line 
+/** * print_string - a function that prints string, followed by a new line
  *
  * @seperator: pointer to a constant seperator
  * @n: start of input variables
@@ -10,7 +8,7 @@
  * Return: nothing
  */
 
-void print_string(const char *seperator, const unsigned int n, ...)
+void print_strings(const char *seperator, const unsigned int n, ...)
 {
 	va_list ap;
 	unsigned int index;
