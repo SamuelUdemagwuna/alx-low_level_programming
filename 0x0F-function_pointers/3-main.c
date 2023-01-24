@@ -30,7 +30,7 @@ int main(int argc, char *argv[])
 	if (argc != 4)
 	{
 		printf("Error\n");
-		exit (99);
+		exit(99);
 	}
 
 	num1 = atoi(argv[1]); /*if argument is string convert to number*/
