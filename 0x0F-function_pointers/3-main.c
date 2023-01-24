@@ -23,7 +23,7 @@
  */
 int main(int argc, char *argv[])
 {
-	int num1, int num2;
+	int num1, num2;
 	char *operator;
 
 	/*Error if arguments are not 4 with the executable */
